@@ -2,13 +2,6 @@
   "title": "posts",
   "type": "object",
   "properties": {
-    "slug": {
-      "required": true,
-      "description": "",
-      "fieldType": "String",
-      "dataType": "string",
-      "title": "slug"
-    },
     "content": {
       "required": true,
       "description": "",

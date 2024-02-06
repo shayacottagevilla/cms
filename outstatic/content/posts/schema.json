@@ -15,6 +15,13 @@
       "fieldType": "String",
       "dataType": "string",
       "title": "slug"
+    },
+    "content": {
+      "required": true,
+      "description": "",
+      "fieldType": "Text",
+      "dataType": "string",
+      "title": "content"
     }
   }
 }
